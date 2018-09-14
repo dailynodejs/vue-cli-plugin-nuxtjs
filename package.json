@@ -1,0 +1,22 @@
+{
+  "name": "vue-cli-plugin-nuxtjs",
+  "version": "1.0.0",
+  "description": "A vue-cli plugin that init nuxt project template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dailynodejs/vue-cli-plugin-nuxtjs.git"
+  },
+  "keywords": [
+    "nuxt"
+  ],
+  "author": "dailynodejs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dailynodejs/vue-cli-plugin-nuxtjs/issues"
+  },
+  "homepage": "https://github.com/dailynodejs/vue-cli-plugin-nuxtjs#readme"
+}
